@@ -79,7 +79,7 @@ A managed AI-powered security API from Google Cloud:
 To enable Model Armor (optional but recommended):
 
 1. Enable the [Model Armor API](https://cloud.google.com/security/products/model-armor?hl=en) in your GCP project
-2. Create a Model Armor template ([docs](https://cloud.google.com/model-armor/docs))
+2. Create a Model Armor template
 3. Update `model_armor.py` with your project ID, location, and template ID
 4. Authenticate: `gcloud auth application-default login`
 5. Install the SDK: `pip install google-cloud-modelarmor`
