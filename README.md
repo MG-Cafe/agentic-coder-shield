@@ -2,7 +2,7 @@
 
 A security-hardened Claude Code skill that protects AI coding agents from prompt injection, data exfiltration, and credential leaks.
 
-**Video tutorial**: [1 Prompt Hacked My Claude Code Agent](https://youtube.com/@MG_cafe)
+**Video tutorial**: [1 Prompt Hacked My Claude Code Agent]([https://youtube.com/@MG_cafe](https://youtu.be/BNvW-nT0B2M))
 
 ## What This Is
 
